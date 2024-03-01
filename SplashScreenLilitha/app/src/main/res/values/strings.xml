@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SplashScreenLilitha</string>
+    <string name="zulu">Zulu</string>
+    <string name="xhosa">Xhosa</string>
+    <string name="sotho">Sotho</string>
+    <string name="pedi">Pedi</string>
+    <string name="afrikaans">Afrikaans</string>
+    <string name="afrikans" />
+</resources>
